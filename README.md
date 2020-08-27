@@ -2,7 +2,7 @@
 # Towards a Checklist for Data-driven Predictive Models
 
 ![Figure 1](figure1_web.png)
-Figure 1: Degree of coverage by category for ML model development in each of 13 reviewed checklists, ordered by primary domain (top row). Gradient: blue/red = high/low coverage.
+**Figure 1**: Degree of coverage by category for ML model development in each of 13 reviewed checklists, ordered by primary domain (top row). Gradient: blue/red = high/low coverage.
 
 ## References
 
